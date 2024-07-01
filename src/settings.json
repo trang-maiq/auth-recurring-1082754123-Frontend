@@ -1,0 +1,67 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Get ready for TechMeetup 2025! Join us on [date] to discuss the latest tech innovations.",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where creativity meets technology, and every idea sparks a wave of possibilities.",
+        "title": "Inspire and Innovate with Yay"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into a world where creativity meets technology, and every idea sparks a wave of possibilities.",
+        "title": "Inspire and Innovate with Yay"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into a world where creativity meets technology, and every idea sparks a wave of possibilities.",
+        "title": "Inspire and Innovate with Yay"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where creativity meets technology, and every idea sparks a wave of possibilities.",
+        "title": "Inspire and Innovate with Yay"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into a world where creativity meets technology, and every idea sparks a wave of possibilities.",
+        "title": "Inspire and Innovate with Yay"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into a world where creativity meets technology, and every idea sparks a wave of possibilities.",
+        "title": "Inspire and Innovate with Yay"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where creativity meets technology, and every idea sparks a wave of possibilities.",
+        "title": "Inspire and Innovate with Yay"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Inspire and Innovate with Yay",
+  "subtitle": "Dive into a world where creativity meets technology, and every idea sparks a wave of possibilities."
+}
